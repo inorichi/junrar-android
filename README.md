@@ -1,7 +1,7 @@
 Junrar-Android
 ==============
 
-**Forked from** [Albertus82/JUnRAR](https://github.com/Albertus82/JUnRAR/blob/master/README.md)
+**Forked from** [Albertus82/JUnRAR](https://github.com/Albertus82/JUnRAR)
 
 * Removed commons-logging dependency and VFS support.
 * Built with Gradle.
